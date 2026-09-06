@@ -2,7 +2,7 @@
 
 ### Hardware
 - [Anker SD Card Reader USB 3.0](https://link.amazon/B0imNaOhe)
-- [Micro SDXC Lexar 64Gb](https://link.amazon/B0aqGdoqK) 
+- [Micro SDXC Lexar 64Gb taxa de escrita 48MB/s](https://link.amazon/B0bRLAYTs) 
 
 ### Pré instalação
 - [Rufus Portável](https://rufus.ie/pt_BR/)
