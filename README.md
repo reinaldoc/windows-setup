@@ -30,6 +30,6 @@
   - Importar VM:
 ```bash
 cd "C:\Program Files\Oracle\VirtualBox"
-VBoxManage.exe registervm C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
+VBoxManage.exe registervm "C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
 ```
 - [Git Bash](https://git-scm.com/install/windows)
