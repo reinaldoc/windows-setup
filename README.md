@@ -26,8 +26,12 @@
 - [Chrome](https://www.google.com/intl/pt-BR/chrome/)
 - [Nvidia driver](https://www.nvidia.com/pt-br/geforce/drivers/)
 - [One Drive](https://support.microsoft.com/pt-br/onedrive/download-onedrive)
+  - **Reativar One Drive** (se desabilitado pelo Rufus)
+    ```
+    HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\OneDrive\DisableFileSyncNGSC = 0
+    ```
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  - Importar VM:
+  - **Importar VM**
     ```bash
     cd "C:\Program Files\Oracle\VirtualBox"
     VBoxManage.exe registervm "C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
