@@ -24,4 +24,7 @@
 
 ### Software
 - [Chrome](https://www.google.com/intl/pt-BR/chrome/)
+- [Nvidia driver](https://www.nvidia.com/pt-br/geforce/drivers/)
+- [One Drive](https://support.microsoft.com/pt-br/onedrive/download-onedrive)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Git Bash](https://git-scm.com/install/windows)
