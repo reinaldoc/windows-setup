@@ -28,8 +28,8 @@
 - [One Drive](https://support.microsoft.com/pt-br/onedrive/download-onedrive)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   - Importar VM:
-```bash
-cd "C:\Program Files\Oracle\VirtualBox"
-VBoxManage.exe registervm "C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
-```
+    ```bash
+    cd "C:\Program Files\Oracle\VirtualBox"
+    VBoxManage.exe registervm "C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
+    ```
 - [Git Bash](https://git-scm.com/install/windows)
