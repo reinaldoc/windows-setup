@@ -28,7 +28,7 @@
 - [One Drive](https://support.microsoft.com/pt-br/onedrive/download-onedrive)
   - **Reativar One Drive** (se desabilitado pelo Rufus)
     ```
-    HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\OneDrive\DisableFileSyncNGSC = 0
+    HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive = 0
     ```
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   - **Importar VM**
