@@ -36,4 +36,8 @@
     cd "C:\Program Files\Oracle\VirtualBox"
     VBoxManage.exe registervm "C:\Users\myuser\VirtualBox VMs\myVM\myVM.vbox"
     ```
+- [Zoom It](https://learn.microsoft.com/pt-br/sysinternals/downloads/zoomit)
 - [Git Bash](https://git-scm.com/install/windows)
+- [Putty](https://putty.org/)
+  - **Configurar fonte**: Window → Appearance → Change... → Consolas, Regular, 16
+ 
